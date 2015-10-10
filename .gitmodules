@@ -1,3 +1,6 @@
 [submodule "ng-cable-app"]
 	path = ng-cable-app
 	url = git@github.com:wazery/ng-cable-app.git
+[submodule "rails-cable-app"]
+	path = rails-cable-app
+	url = git@github.com:wazery/rails-cable-app.git
