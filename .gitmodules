@@ -1,0 +1,3 @@
+[submodule "ng-cable-app"]
+	path = ng-cable-app
+	url = git@github.com:wazery/ng-cable-app.git
